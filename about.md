@@ -1,9 +1,15 @@
 ---
-title: About me
+title: 나의 오래된 기억들의 아카이브
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+저는 초등학교 때부터 써온 몇 권의 공책과(대부분은 유실되었습니다), 군대에서 기록한 메모장들, 여기저기에서 (주로 군대에서) 주고받은 편지들, 컴퓨터 상에 저장된 메모들을 많이 가지고 있습니다. 이 사이트는 그러한 기록이 조금이라도 오래 살아 숨쉬게 하기 위한 목적의 아카이브입니다.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+또한 평소에 '생각'하는 것을 좋아하고 일부러 사물이나 현상을 다른 각도로 보는 것(쉬운말로 비꼬기)을 즐깁니다.
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+제가 가진 생각들은, 혹은 가졌던 생각들은 모든 개인들이 그러하듯 잠시 머릿속을 머물다 사라졌습니다. 제가 기록한 내용은 당연하게도 제가 생각한 것의 극히 일부분이며, 조금 시적인 표현을 섞어보자면, 산화되기 전에 가까스로 구출해 낸 작은 생명들입니다. 일부는 측은하고, 일부는 자랑스럽습니다. 아주 극소수의 생각들은 지금와서 도무지 그 맥락을 이해하기 어렵습니다만 대부분은 조금만 읽어도 왜 이런 단어와 이런 문장을 적었는지 금방 떠올릴 수 있습니다.
+
+제가 가진 생각을 온라인에 공개한다는 것은, 설령 제 존재를 철저히 숨겼음에도(하지만 저는 이것이 여러 의미에서 불가능하다는 것 또한 알고 있습니다) 너무나도 떨리고 무서운 도전입니다. 하지만 자신의 일부를 세계에 영원히 남기고 싶다는 지극히 개인적이고도 인간적인 욕망을 스스로에게서 발견하고, 그 순간 남기고 싶다는 것은 누군가 내가 남긴 것을 봐주길 원하는 것이라는 숨은 이유를 찾았을 때 저는 가까스로 용기를 낼 수 있었습니다.
+
+이 글이 몇 명에게나 닿을지 잘 모르겠습니다. 이 사이트에는 어떤 웹사이트 분석 도구도 사용하지 않았습니다. 여러분이 왔다간 흔적을 제가 확인할 수 있는 방법은 거의 없으며, 그 얼마 남지 않은 방법도 저는 지금으로선 이용할 생각이 전혀 없습니다. 누군가가 내 생각을 읽는다는 것은 참으로 기쁘고도 뿌듯한 일이지만 동시에 한없이 무섭고 걱정이 밀려오는 순간입니다. 웃기는 일입니다. 저는 당신이 제 글을 읽고 그 사실을 제가 알기를 원하지만 당신이 제게 존재를 들키지 않았으면 좋겠습니다. 즐거운 모순이네요.
+
+혹시라도 당신이 이 사이트 바깥의 어딘가 - 현실, 또는 가상 세계 그 어디에서라도 - 이 사이트의 글쓴이라고 여겨지는 자를 발견한다면, 부디, 제발, '네가 이 사이트의 글쓴이냐'고 묻지 말아주세요. 만약에 정말 만약에 그 사람이 정말 저라면, 저는 그 얘기를 듣는 순간 창 밖으로 뛰어내려 자살할 것입니다.
