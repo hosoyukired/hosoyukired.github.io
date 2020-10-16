@@ -5,7 +5,27 @@
   {% for post in site.posts %}
   <li class="mv2">
     <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
-      <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
+
+      <div class="fr silver ttu">
+        <time >
+          {{ post.transcribed_at | date: "%Y년 %m월 %d일" }}
+        </time>
+
+        전사 |
+
+        {% if post.written_at and post.written_at[0] != "미상" %}
+          <time>
+            {{ post.written_at[0] | date: "%Y년 %m월 %d일" }}
+          </time>
+
+          {% if post.written_at.size > 1 %} 등 {% endif %}
+
+          기록
+        {% else %}
+          기록일 확인 불가
+        {% endif %}
+      </div>
+
       {{ post.title }}
     </a>
   </li>

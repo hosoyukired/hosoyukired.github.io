@@ -1,23 +1,19 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool."
-url:              https://hosoyukired.github.io # Site url, without a slash at the end.
-signoff:          "hosoyukired" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+title: "Archive"
+description: "Such theme, very cool."
+url: https://hosoyukired.github.io # Site url, without a slash at the end.
+signoff: "hosoyukired" # Your name
 
 links:
-  - name:         Posts
-    url:          /
-    external:     false
-  - name:         About me
-    url:          /about
-    external:     false
+  - name: list
+    url: /
+    external: false
+  - name: introduce
+    url: /introduce
+    external: false
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
+permalink: /posts/:year/:month/:day/:title
 defaults:
   - values:
       layout: "default"
-
