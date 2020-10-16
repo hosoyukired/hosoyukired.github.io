@@ -37,17 +37,7 @@
 
              전사 |
 
-            {% if page.written_at and page.written_at[0] != "미상" %}
-              <time>
-                {{ page.written_at[0] | date: "%Y년 %m월 %d일" }}
-              </time>
-
-              {% if page.written_at.size > 1 %} 등 {% endif %}
-
-              기록
-            {% else %}
-              기록일 확인 불가
-            {% endif %}
+             {{ page.written_at | join: ", " }}
           </div>
 
           {% endif %}
